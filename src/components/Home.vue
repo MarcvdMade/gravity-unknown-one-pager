@@ -85,6 +85,51 @@
             <p class="text-4xl text-center font-bold mt-2 text-gray-500">Fun factor?</p>
         </div>
 
+        <div class="mt-36">
+            <p class="text-6xl text-center font-bold mb-10 text-black">Sales Pitch Focus Points</p>
+            <div class="flex flex-row flex-wrap justify-center mx-10 gap-5">
+              <v-card
+                class="px-10 py-5 w-1/3"
+                elevation="6"
+                outlined
+                shaped
+              >
+                <p class="text-4xl font-bold text-center underline">Sell your concept!</p>
+                <p class="text-lg">
+                  Focus more on selling the game and it's features. Don't focus to much on progress and research.
+                  Talk about what makes the game amazing and why people want to play it.
+                  Focus on the player changing gravity. The main focus of your game.
+                </p>
+              </v-card>
+              <v-card
+                class="px-10 py-5 w-1/3"
+                elevation="6"
+                outlined
+                shaped
+              >
+                <p class="text-4xl font-bold text-center underline">Concept sketches!</p>
+                <p class="text-lg">
+                  Show your concept sketches. This will help with explaining your game features.
+                  Make some sketches (does not matter how bad they are) and don't forget them this time.
+                  Trying to explain the gravity change feature is very difficult without sketches.
+                </p>
+              </v-card>
+              <v-card
+                class="px-10 py-5 w-1/3"
+                elevation="6"
+                outlined
+                shaped
+              >
+                <p class="text-4xl font-bold text-center underline">Talk about why your target audience wants to play the game!</p>
+                <p class="text-lg">
+                  Target audience is important. They are the people how are gonna notice your game and want to play it.
+                  Talk about everything that will sell the game to them. Almost the same as the first point. If your target audience is not
+                  interested nobody is gonna be interested.
+                </p>
+              </v-card>
+            </div>
+        </div>
+
         <p class="text-6xl text-center font-bold mt-20 text-black">Release Line</p>
         <div class="border-solid border-t-4 border-b-4 border-blue-500">
             <v-timeline>
