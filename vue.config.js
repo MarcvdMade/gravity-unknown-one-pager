@@ -1,5 +1,7 @@
+const production = true;
+
 module.exports = {
-  publicPath: '/gravity-unknown-one-pager/',
+  publicPath: production? '/gravity-unknown-one-pager/' : '/',
   transpileDependencies: [
     'vuetify'
   ]
