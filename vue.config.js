@@ -1,5 +1,5 @@
 module.exports = {
-  publicPath: '/gravity-unknown-one-pager',
+  parallel: false,
   transpileDependencies: [
     'vuetify'
   ]
