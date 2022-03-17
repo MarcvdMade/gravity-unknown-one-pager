@@ -1,24 +1,8 @@
-# gravity-unknown-one-pager
+# Gravity: Unknown
+## Gravity Bending Gameplay
 
-## Project setup
-```
-npm install
-```
+## Github page
+https://marcvdmade.github.io/gravity-unknown-one-pager/
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Description
+A cool platformer game where you as player control the gravity!!!
