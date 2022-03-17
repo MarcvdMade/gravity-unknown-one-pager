@@ -87,9 +87,9 @@
 
         <div class="mt-36">
             <p class="text-6xl text-center font-bold mb-10 text-black">Sales Pitch Focus Points</p>
-            <div class="flex flex-row flex-wrap justify-center mx-10 gap-5">
+            <div class="flex flex-col md:flex-row flex-wrap justify-center gap-5">
               <v-card
-                class="px-10 py-5 w-1/3"
+                class="px-10 py-5 w-96 mx-auto"
                 elevation="6"
                 outlined
                 shaped
@@ -102,7 +102,7 @@
                 </p>
               </v-card>
               <v-card
-                class="px-10 py-5 w-1/3"
+                class="px-10 py-5 w-96 mx-auto"
                 elevation="6"
                 outlined
                 shaped
@@ -115,7 +115,7 @@
                 </p>
               </v-card>
               <v-card
-                class="px-10 py-5 w-1/3"
+                class="px-10 py-5 w-96 mx-auto"
                 elevation="6"
                 outlined
                 shaped
